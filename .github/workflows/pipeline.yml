@@ -25,5 +25,5 @@ jobs:
     - run: npm run build --if-present
     - name: Run tests
       run: npm run test:unit
-    -name: Display Softuni username
+    - name: Display Softuni username
       run: echo "laura6921"
