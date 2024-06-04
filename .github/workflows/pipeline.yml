@@ -26,4 +26,4 @@ jobs:
     - name: Run tests
       run: npm run test:unit
     -name: Display Softuni username
-      run: echo 'Laura696921'
+      run: echo "Laura696921"
